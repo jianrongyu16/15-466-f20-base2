@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# Just A Tip
 
-Author: (TODO: your name)
+Author: Jianrong Yu
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: This game is about reaction speed and controlling your greediness.
 
 Screen Shot:
 
@@ -10,9 +10,16 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+Your goal is to move the top 3 cubes in under 4 seconds to make their faces overlap as little as possible. Try to keep just the tips in touch.
+The smallest the overlap, the higher the score.
 
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+If your cube is completely off you are out and the score won't be counted.
+
+Use the direction keypad to control the cube. Press Q to move down a cube. Press E to move up a cube.
+
+(You can move the lowest cube but it doesn't do anything)
+
+Sources: All assests are my own.
 
 This game was built with [NEST](NEST.md).
 
